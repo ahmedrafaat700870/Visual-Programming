@@ -1,0 +1,20 @@
+C:\Users\rafaa\OneDrive\Desktop\colog\visual\test\six\six\bin\Debug\six.exe.config
+C:\Users\rafaa\OneDrive\Desktop\colog\visual\test\six\six\obj\Debug\six.csprojResolveAssemblyReference.cache
+C:\Users\rafaa\OneDrive\Desktop\colog\visual\test\six\six\obj\Debug\six.Form1.resources
+C:\Users\rafaa\OneDrive\Desktop\colog\visual\test\six\six\obj\Debug\six.Properties.Resources.resources
+C:\Users\rafaa\OneDrive\Desktop\colog\visual\test\six\six\obj\Debug\six.csproj.GenerateResource.Cache
+C:\Users\rafaa\OneDrive\Desktop\colog\visual\test\six\six\bin\Debug\six.exe
+C:\Users\rafaa\OneDrive\Desktop\colog\visual\test\six\six\bin\Debug\six.pdb
+C:\Users\rafaa\OneDrive\Desktop\colog\visual\test\six\six\obj\Debug\six.exe
+C:\Users\rafaa\OneDrive\Desktop\colog\visual\test\six\six\obj\Debug\six.pdb
+C:\Users\rafaa\OneDrive\Desktop\colog\visual\taskes\section 3\Task 3 6\six\bin\Debug\six.exe.config
+C:\Users\rafaa\OneDrive\Desktop\colog\visual\taskes\section 3\Task 3 6\six\bin\Debug\six.exe
+C:\Users\rafaa\OneDrive\Desktop\colog\visual\taskes\section 3\Task 3 6\six\bin\Debug\six.pdb
+C:\Users\rafaa\OneDrive\Desktop\colog\visual\taskes\section 3\Task 3 6\six\obj\Debug\six.csproj.AssemblyReference.cache
+C:\Users\rafaa\OneDrive\Desktop\colog\visual\taskes\section 3\Task 3 6\six\obj\Debug\six.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafaa\OneDrive\Desktop\colog\visual\taskes\section 3\Task 3 6\six\obj\Debug\six.Form1.resources
+C:\Users\rafaa\OneDrive\Desktop\colog\visual\taskes\section 3\Task 3 6\six\obj\Debug\six.Properties.Resources.resources
+C:\Users\rafaa\OneDrive\Desktop\colog\visual\taskes\section 3\Task 3 6\six\obj\Debug\six.csproj.GenerateResource.cache
+C:\Users\rafaa\OneDrive\Desktop\colog\visual\taskes\section 3\Task 3 6\six\obj\Debug\six.csproj.CoreCompileInputs.cache
+C:\Users\rafaa\OneDrive\Desktop\colog\visual\taskes\section 3\Task 3 6\six\obj\Debug\six.exe
+C:\Users\rafaa\OneDrive\Desktop\colog\visual\taskes\section 3\Task 3 6\six\obj\Debug\six.pdb
