@@ -1,0 +1,11 @@
+C:\Users\rafaa\OneDrive\Desktop\colog\visual\test\Task4_2\Task4_2\bin\Debug\Task4_2.exe.config
+C:\Users\rafaa\OneDrive\Desktop\colog\visual\test\Task4_2\Task4_2\bin\Debug\Task4_2.exe
+C:\Users\rafaa\OneDrive\Desktop\colog\visual\test\Task4_2\Task4_2\bin\Debug\Task4_2.pdb
+C:\Users\rafaa\OneDrive\Desktop\colog\visual\test\Task4_2\Task4_2\obj\Debug\Task4_2.csproj.AssemblyReference.cache
+C:\Users\rafaa\OneDrive\Desktop\colog\visual\test\Task4_2\Task4_2\obj\Debug\Task4_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafaa\OneDrive\Desktop\colog\visual\test\Task4_2\Task4_2\obj\Debug\Task4_2.Form1.resources
+C:\Users\rafaa\OneDrive\Desktop\colog\visual\test\Task4_2\Task4_2\obj\Debug\Task4_2.Properties.Resources.resources
+C:\Users\rafaa\OneDrive\Desktop\colog\visual\test\Task4_2\Task4_2\obj\Debug\Task4_2.csproj.GenerateResource.cache
+C:\Users\rafaa\OneDrive\Desktop\colog\visual\test\Task4_2\Task4_2\obj\Debug\Task4_2.csproj.CoreCompileInputs.cache
+C:\Users\rafaa\OneDrive\Desktop\colog\visual\test\Task4_2\Task4_2\obj\Debug\Task4_2.exe
+C:\Users\rafaa\OneDrive\Desktop\colog\visual\test\Task4_2\Task4_2\obj\Debug\Task4_2.pdb
