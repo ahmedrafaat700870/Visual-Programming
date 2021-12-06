@@ -1,0 +1,11 @@
+H:\colog\visual\test\XO_Game\XO_Game\bin\Debug\XO_Game.exe.config
+H:\colog\visual\test\XO_Game\XO_Game\bin\Debug\XO_Game.exe
+H:\colog\visual\test\XO_Game\XO_Game\bin\Debug\XO_Game.pdb
+H:\colog\visual\test\XO_Game\XO_Game\obj\Debug\XO_Game.csproj.AssemblyReference.cache
+H:\colog\visual\test\XO_Game\XO_Game\obj\Debug\XO_Game.csproj.SuggestedBindingRedirects.cache
+H:\colog\visual\test\XO_Game\XO_Game\obj\Debug\XO_Game.Form1.resources
+H:\colog\visual\test\XO_Game\XO_Game\obj\Debug\XO_Game.Properties.Resources.resources
+H:\colog\visual\test\XO_Game\XO_Game\obj\Debug\XO_Game.csproj.GenerateResource.cache
+H:\colog\visual\test\XO_Game\XO_Game\obj\Debug\XO_Game.csproj.CoreCompileInputs.cache
+H:\colog\visual\test\XO_Game\XO_Game\obj\Debug\XO_Game.exe
+H:\colog\visual\test\XO_Game\XO_Game\obj\Debug\XO_Game.pdb
