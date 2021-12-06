@@ -1,0 +1,11 @@
+C:\Users\rafaa\OneDrive\Desktop\colog\visual\test\Task5.1\Task5.1\bin\Debug\Task5.1.exe.config
+C:\Users\rafaa\OneDrive\Desktop\colog\visual\test\Task5.1\Task5.1\bin\Debug\Task5.1.exe
+C:\Users\rafaa\OneDrive\Desktop\colog\visual\test\Task5.1\Task5.1\bin\Debug\Task5.1.pdb
+C:\Users\rafaa\OneDrive\Desktop\colog\visual\test\Task5.1\Task5.1\obj\Debug\Task5.1.csproj.AssemblyReference.cache
+C:\Users\rafaa\OneDrive\Desktop\colog\visual\test\Task5.1\Task5.1\obj\Debug\Task5.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafaa\OneDrive\Desktop\colog\visual\test\Task5.1\Task5.1\obj\Debug\Task5._1.Form1.resources
+C:\Users\rafaa\OneDrive\Desktop\colog\visual\test\Task5.1\Task5.1\obj\Debug\Task5._1.Properties.Resources.resources
+C:\Users\rafaa\OneDrive\Desktop\colog\visual\test\Task5.1\Task5.1\obj\Debug\Task5.1.csproj.GenerateResource.cache
+C:\Users\rafaa\OneDrive\Desktop\colog\visual\test\Task5.1\Task5.1\obj\Debug\Task5.1.csproj.CoreCompileInputs.cache
+C:\Users\rafaa\OneDrive\Desktop\colog\visual\test\Task5.1\Task5.1\obj\Debug\Task5.1.exe
+C:\Users\rafaa\OneDrive\Desktop\colog\visual\test\Task5.1\Task5.1\obj\Debug\Task5.1.pdb
