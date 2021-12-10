@@ -1,0 +1,22 @@
+H:\colog\Parallel\Test Code c++\Task6.1\Task6.1\bin\Debug\Task6.1.exe.config
+H:\colog\Parallel\Test Code c++\Task6.1\Task6.1\bin\Debug\Task6.1.exe
+H:\colog\Parallel\Test Code c++\Task6.1\Task6.1\bin\Debug\Task6.1.pdb
+H:\colog\Parallel\Test Code c++\Task6.1\Task6.1\obj\Debug\Task6.1.csproj.AssemblyReference.cache
+H:\colog\Parallel\Test Code c++\Task6.1\Task6.1\obj\Debug\Task6.1.csproj.SuggestedBindingRedirects.cache
+H:\colog\Parallel\Test Code c++\Task6.1\Task6.1\obj\Debug\Task6._1.Form1.resources
+H:\colog\Parallel\Test Code c++\Task6.1\Task6.1\obj\Debug\Task6._1.Properties.Resources.resources
+H:\colog\Parallel\Test Code c++\Task6.1\Task6.1\obj\Debug\Task6.1.csproj.GenerateResource.cache
+H:\colog\Parallel\Test Code c++\Task6.1\Task6.1\obj\Debug\Task6.1.csproj.CoreCompileInputs.cache
+H:\colog\Parallel\Test Code c++\Task6.1\Task6.1\obj\Debug\Task6.1.exe
+H:\colog\Parallel\Test Code c++\Task6.1\Task6.1\obj\Debug\Task6.1.pdb
+H:\colog\visual\taskes\Section 6\Task6.1\Task6.1\bin\Debug\Task6.1.exe.config
+H:\colog\visual\taskes\Section 6\Task6.1\Task6.1\bin\Debug\Task6.1.exe
+H:\colog\visual\taskes\Section 6\Task6.1\Task6.1\bin\Debug\Task6.1.pdb
+H:\colog\visual\taskes\Section 6\Task6.1\Task6.1\obj\Debug\Task6.1.csproj.AssemblyReference.cache
+H:\colog\visual\taskes\Section 6\Task6.1\Task6.1\obj\Debug\Task6.1.csproj.SuggestedBindingRedirects.cache
+H:\colog\visual\taskes\Section 6\Task6.1\Task6.1\obj\Debug\Task6._1.Form1.resources
+H:\colog\visual\taskes\Section 6\Task6.1\Task6.1\obj\Debug\Task6._1.Properties.Resources.resources
+H:\colog\visual\taskes\Section 6\Task6.1\Task6.1\obj\Debug\Task6.1.csproj.GenerateResource.cache
+H:\colog\visual\taskes\Section 6\Task6.1\Task6.1\obj\Debug\Task6.1.csproj.CoreCompileInputs.cache
+H:\colog\visual\taskes\Section 6\Task6.1\Task6.1\obj\Debug\Task6.1.exe
+H:\colog\visual\taskes\Section 6\Task6.1\Task6.1\obj\Debug\Task6.1.pdb
