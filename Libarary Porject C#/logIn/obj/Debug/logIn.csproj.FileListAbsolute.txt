@@ -1,0 +1,12 @@
+H:\colog\visual\Project\logIn\logIn\obj\Debug\logIn.csprojResolveAssemblyReference.cache
+H:\colog\visual\Project\logIn\logIn\obj\Debug\logIn.Form1.resources
+H:\colog\visual\Project\logIn\logIn\obj\Debug\logIn.Properties.Resources.resources
+H:\colog\visual\Project\logIn\logIn\obj\Debug\logIn.csproj.GenerateResource.Cache
+H:\colog\visual\Project\logIn\logIn\bin\Debug\logIn.exe
+H:\colog\visual\Project\logIn\logIn\bin\Debug\logIn.pdb
+H:\colog\visual\Project\logIn\logIn\obj\Debug\logIn.exe
+H:\colog\visual\Project\logIn\logIn\obj\Debug\logIn.pdb
+H:\colog\visual\Project\logIn\logIn\obj\Debug\logIn.user_main.resources
+H:\colog\visual\Project\logIn\logIn\obj\Debug\logIn.Admain_Form.resources
+H:\colog\visual\Project\logIn\logIn\obj\Debug\logIn.Regester.resources
+H:\colog\visual\Project\logIn\logIn\obj\Debug\logIn.User_Not_Active.resources
